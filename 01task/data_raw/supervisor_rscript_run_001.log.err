@@ -1,0 +1,4 @@
+Resuming from data_raw/crawl_checkpoint.rds
+Resuming with 1163 globally unique movies; target is 2000.
+Error: IMDb_CAPTCHA_BLOCKED: IMDb served a human-verification CAPTCHA page. The title remains pending. Stopped after saving the checkpoint; retry only after the challenge clears.
+Execution halted

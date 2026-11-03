@@ -1,0 +1,12 @@
+measure,value
+Unique movies,4
+Movies missing title,0
+Movies missing IMDb rating,0
+Movies missing total votes,0
+Movies missing budget text,0
+Movies missing worldwide gross text,0
+Movies with cast rows,4
+Movies with vote histogram rows,0
+Scrape failure rows,0
+Unique member/movie contributions,4
+Recommendation lineage edges,48

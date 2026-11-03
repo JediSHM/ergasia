@@ -1,0 +1,7 @@
+Resuming from data_raw/crawl_checkpoint.rds
+Starting/resuming member_1 from tt0076759
+member_1: 501 unique movies; last title tt0061722
+member_1: 502 unique movies; last title tt0438488
+Error: Cannot open file for writing:
+* 'C:/Users/mixal/Desktop/01task/data_raw/movies_raw.csv'
+Execution halted

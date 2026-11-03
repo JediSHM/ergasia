@@ -1,0 +1,33 @@
+Resuming from data_raw/crawl_checkpoint.rds
+Resuming with 1163 globally unique movies; target is 2000.
+Unique movies: 1163/2000; member_1 processed tt0099653 (already scraped; lineage saved)
+member_2: skipped non-movie/unclassified title tt0215750.
+member_3: skipped non-movie/unclassified title tt0441773.
+member_4: skipped non-movie/unclassified title tt0057413.
+member_1: skipped non-movie/unclassified title tt0091059.
+Checkpoint saved in data_raw/.
+member_2: skipped non-movie/unclassified title tt0277434.
+member_3: skipped non-movie/unclassified title tt0833557.
+member_4: skipped non-movie/unclassified title tt0072081.
+Unique movies: 1163/2000; member_1 processed tt0104437 (already scraped; lineage saved)
+Unique movies: 1163/2000; member_2 processed tt0332452 (already scraped; lineage saved)
+Checkpoint saved in data_raw/.
+member_3: skipped non-movie/unclassified title tt8129976.
+member_4: skipped non-movie/unclassified title tt0075066.
+member_1: skipped non-movie/unclassified title tt0093105.
+Unique movies: 1163/2000; member_2 processed tt0325710 (already scraped; lineage saved)
+member_3: skipped non-movie/unclassified title tt1307442.
+Checkpoint saved in data_raw/.
+member_4: skipped non-movie/unclassified title tt0078163.
+member_1: skipped non-movie/unclassified title tt0332379.
+member_2: skipped non-movie/unclassified title tt2179136.
+member_3: skipped non-movie/unclassified title tt0115819.
+member_4: skipped non-movie/unclassified title tt0084814.
+Checkpoint saved in data_raw/.
+Unique movies: 1163/2000; member_1 processed tt5028340 (already scraped; lineage saved)
+member_2: skipped non-movie/unclassified title tt1091191.
+member_3: skipped non-movie/unclassified title tt3138104.
+member_4: skipped non-movie/unclassified title tt0063415.
+Unique movies: 1163/2000; member_1 processed tt0062803 (already scraped; lineage saved)
+Checkpoint saved in data_raw/.
+member_2: skipped non-movie/unclassified title tt0437086.
